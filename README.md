@@ -1,4 +1,4 @@
-# 🐾 Pet Machine em Java
+#  Pet Machine em Java
 
 Projeto desenvolvido para praticar conceitos fundamentais de **Programação Orientada a Objetos (POO)** em Java. Trata-se de uma aplicação de terminal que simula o funcionamento e o controle de uma máquina de banho automatizada para animais de estimação.
 
